@@ -81,6 +81,10 @@ li{
 hr{
     margin-bottom:15px;
 }
+.a3{
+ color:lightblue;
+ text-decoration:none;
+}
 .a3:hover{
     color:blue;
 }
